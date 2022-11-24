@@ -12,6 +12,6 @@ The sample configuration file `config.json` used to generate the results like th
 1. [Install .NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) (Windows, Linux, and macOS).
    For Ubuntu 22+, for example, install [Microsoft feed](https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu#2204-microsoft-package-feed) and just `sudo apt-get update && sudo apt-get install -y dotnet-sdk-7.0`
 2. Clone the repo locally
-3. Run `dotnet run`
+3. Run `dotnet run config.json`
 
 Optionally you copy and edit `config.json` to suit your needs.
