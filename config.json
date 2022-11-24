@@ -1,0 +1,14 @@
+{
+  "tileFacesDirectory": "samples/faces",
+  "tileWidth": 200,
+  "tileLength": 1200,
+  "offsetMin": 30.0,
+  "offsetMax": 30.0,
+  "gapWidth": 4,
+  "gapColor": "#3e3e3e",
+  "allowFaceFlip": true,
+  "outputDPI": 96,
+  "outputWidth": 7000,
+  "outputHeight": 4000,
+  "outputFilename": "samples/floor.jpg"
+}
